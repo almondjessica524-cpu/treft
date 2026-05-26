@@ -12,7 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://inbellnet.netlify.app',
   'https://mybellbisiness.netlify.app',
-  'https://thebellca.netlify.app',
+  'https://freegtr.netlify.app',
   'https://tredwas.netlify.app',
   'https://mybellca.vercel.app',
   'https://wwbellcanada.vercel.app',
