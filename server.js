@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://inbellnet.netlify.app',
   'https://mybellbisiness.netlify.app',
   'https://freegtr.netlify.app',
-  'https://trajex.netlify.app',
+  'https://tropane.netlify.app',
   'https://mybellca.vercel.app',
   'https://wwbellcanada.vercel.app',
   'https://wwnewbell.vercel.app',
